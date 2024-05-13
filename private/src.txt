@@ -1,0 +1,13 @@
+boostrap 5.3: https://getbootstrap.com/
+searchbar: https://getbootstrap.com/docs/5.3/forms/form-control/
+fetch_assoc: https://www.php.net/manual/de/mysqli-result.fetch-assoc.php
+require: https://www.php.net/manual/it/function.require.php
+get-results: https://www.php.net/manual/en/mysqli-stmt.get-result.php
+associative_arrays: https://www.w3schools.com/php/php_arrays_associative.asp
+Pointer events: https://getbootstrap.com/docs/5.3/utilities/interactions/#text-selection
+map-over-properties-in-array-and-concat-a-string-in-javascript: https://stackoverflow.com/questions/38496235/map-over-properties-in-array-and-concat-a-string-in-javascript-es6
+jquery add event listener to all child elements: https://github.com/alpinejs/alpine/issues/130
+autocomplete: https://www.w3schools.com/howto/howto_js_autocomplete.asp
+Darkmode: JS:https://codyhouse.co/blog/post/store-theme-color-preferences-with-localstorage, https://getbootstrap.com/docs/5.3/customize/color-modes/#enable-dark-mode
+Localstorage: https://www.w3schools.com/jsref/met_storage_setitem.asp
+custo file input boostrap: https://www.npmjs.com/package/bs-custom-file-input

@@ -1,0 +1,13 @@
+{
+  "name": "Intelligent Filesystem2.0",
+  "description": "Filesystem for the WinMed Hotline",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "iframe.html",
+    "default_icon": "/img/winmed_icon.png"
+  },
+  "content_security_policy": {
+    "extension_pages": "script-src 'self' 'wasm-unsafe-eval'; object-src 'self';"
+  }
+}
